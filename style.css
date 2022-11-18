@@ -1,0 +1,40 @@
+body {
+    background-color: deepskyblue;
+}
+
+.card {
+    cursor: default;
+    margin-right: 20px;
+    transition: 1s;
+}
+
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+
+.card-header {
+    background-color:gold;
+}
+
+.card-footer {
+    background-color:gold;
+}
+
+.card-body {
+    background-color:darkseagreen;
+}
+
+.form-group {
+    margin-inline: auto;
+    padding: 5px;
+    width: auto;
+}
+
+label {
+    padding: 0px 10px 0px 0px;
+}
+
+.hidden {
+    display: none;
+}
